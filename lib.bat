@@ -1,0 +1,1 @@
+copy /Y vrpnLib\vrpn\pc_win32\Debug\vrpn.lib vrpnLib\vrpn.lib
